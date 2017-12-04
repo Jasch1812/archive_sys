@@ -1,0 +1,35 @@
+name,type,size,path,ctime
+Screenshot from 2017-04-17 13-49-50.png,other,541.366 KB,/home/johann/tmp,Mon Dec  4 19:00:21 2017
+airply.png,other,546.103 KB,/home/johann/tmp,Mon Dec  4 19:00:21 2017
+mysql_test.py,other,302 B,/home/johann/tmp,Mon Dec  4 19:00:06 2017
+/home/johann/tmp/ngamsTest,DIR,3,,Wed Jun 21 15:02:01 2017
+/home/johann/tmp/ngamsTest/NGASMYSQL,DIR,14,,Wed Jun 21 15:02:03 2017
+/home/johann/tmp/ngamsTest/NGASMYSQL/FitsStorage1-Main-1,DIR,3,,Wed Jun 21 15:02:02 2017
+/home/johann/tmp/ngamsTest/NGASMYSQL/FitsStorage1-Rep-2,DIR,3,,Wed Jun 21 15:02:02 2017
+/home/johann/tmp/ngamsTest/NGASMYSQL/FitsStorage2-Main-3,DIR,3,,Wed Jun 21 15:02:02 2017
+/home/johann/tmp/ngamsTest/NGASMYSQL/FitsStorage2-Rep-4,DIR,3,,Wed Jun 21 15:02:02 2017
+/home/johann/tmp/ngamsTest/NGASMYSQL/FitsStorage3-Main-5,DIR,3,,Wed Jun 21 15:02:02 2017
+/home/johann/tmp/ngamsTest/NGASMYSQL/FitsStorage3-Rep-6,DIR,3,,Wed Jun 21 15:02:02 2017
+/home/johann/tmp/ngamsTest/NGASMYSQL/LogStorage-Main-9,DIR,3,,Wed Jun 21 15:02:02 2017
+/home/johann/tmp/ngamsTest/NGASMYSQL/LogStorage-Rep-10,DIR,3,,Wed Jun 21 15:02:02 2017
+/home/johann/tmp/ngamsTest/NGASMYSQL/PafStorage-Main-7,DIR,3,,Wed Jun 21 15:02:02 2017
+/home/johann/tmp/ngamsTest/NGASMYSQL/PafStorage-Rep-8,DIR,3,,Wed Jun 21 15:02:02 2017
+/home/johann/tmp/ngamsTest/NGASMYSQL/cache,DIR,2,,Wed Jun 21 15:02:01 2017
+/home/johann/tmp/ngamsTest/NGASMYSQL/tmp,DIR,3,,Wed Jun 21 15:02:03 2017
+NgasDiskInfo,other,525 B,/home/johann/tmp/ngamsTest/NGASMYSQL/FitsStorage1-Main-1,Wed Jun 21 15:02:03 2017
+NgasDiskInfo,other,524 B,/home/johann/tmp/ngamsTest/NGASMYSQL/FitsStorage1-Rep-2,Wed Jun 21 15:02:03 2017
+NgasDiskInfo,other,520 B,/home/johann/tmp/ngamsTest/NGASMYSQL/FitsStorage2-Main-3,Wed Jun 21 15:02:03 2017
+NgasDiskInfo,other,519 B,/home/johann/tmp/ngamsTest/NGASMYSQL/FitsStorage2-Rep-4,Wed Jun 21 15:02:03 2017
+NgasDiskInfo,other,520 B,/home/johann/tmp/ngamsTest/NGASMYSQL/FitsStorage3-Main-5,Wed Jun 21 15:02:03 2017
+NgasDiskInfo,other,519 B,/home/johann/tmp/ngamsTest/NGASMYSQL/FitsStorage3-Rep-6,Wed Jun 21 15:02:03 2017
+NgasDiskInfo,other,518 B,/home/johann/tmp/ngamsTest/NGASMYSQL/LogStorage-Main-9,Wed Jun 21 15:02:03 2017
+NgasDiskInfo,other,518 B,/home/johann/tmp/ngamsTest/NGASMYSQL/LogStorage-Rep-10,Wed Jun 21 15:02:03 2017
+NgasDiskInfo,other,518 B,/home/johann/tmp/ngamsTest/NGASMYSQL/PafStorage-Main-7,Wed Jun 21 15:02:03 2017
+NgasDiskInfo,other,517 B,/home/johann/tmp/ngamsTest/NGASMYSQL/PafStorage-Rep-8,Wed Jun 21 15:02:03 2017
+Selene-5:8888_REQUEST_INFO_DB.bsddb,other,12 KB,/home/johann/tmp/ngamsTest/NGASMYSQL/cache,Wed Jun 21 15:02:03 2017
+Selene-5:8888_LOST_FILES.bsddb,other,12 KB,/home/johann/tmp/ngamsTest/NGASMYSQL/tmp,Wed Jun 21 15:02:03 2017
+/home/johann/tmp/ngamsTest/NGASMYSQL/tmp/ngamsTest,DIR,3,,Wed Jun 21 15:02:01 2017
+/home/johann/tmp/ngamsTest/NGASMYSQL/tmp/ngamsTest/NGASMYSQL,DIR,4,,Wed Jun 21 15:02:01 2017
+/home/johann/tmp/ngamsTest/NGASMYSQL/tmp/ngamsTest/NGASMYSQL/log,DIR,2,,Wed Jun 21 15:02:07 2017
+/home/johann/tmp/ngamsTest/NGASMYSQL/tmp/ngamsTest/NGASMYSQL/processing,DIR,2,,Wed Jun 21 15:02:01 2017
+LOG-ROTATE-2017-06-21T19:02:03.751.nglog,other,0 B,/home/johann/tmp/ngamsTest/NGASMYSQL/tmp/ngamsTest/NGASMYSQL/log,Wed Jun 21 15:02:07 2017

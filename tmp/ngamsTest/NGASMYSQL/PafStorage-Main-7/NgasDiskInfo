@@ -1,0 +1,5 @@
+<?xml version="1.0" ?>
+<NgamsStatus>
+	<Status Date="2017-06-21T19:02:03.374" HostId="Selene-5:8888" Message="Disk status file" Version="9.0/2017-02-08T02:50:00"/>
+	<DiskStatus Archive="ESO-ARCHIVE" AvailableMb="466927" BytesStored="0" Checksum="" Completed="0" CompletionDate="" DiskId="home-johann-tmp-ngamsTest-NGASMYSQL-PafStorage-Main-7" InstallationDate="2017-06-21T19:02:02.490" LogicalName="M-000004" Manufacturer="TEST-MANUFACTURER" NumberOfFiles="0" TotalDiskWriteTime="0.0" Type="TEST-TYPE"/>
+</NgamsStatus>
